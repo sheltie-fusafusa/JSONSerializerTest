@@ -1,11 +1,10 @@
 JSONSerializerTest
 ====
 
-Overview
+JSONSerializer Test Scene.
 
 ## Description
 
-JSONSerializer Test Scene.
 Please See Follow Link
 [JSON Serialization](http://docs.unity3d.com/Manual/JSONSerialization.html)
 
